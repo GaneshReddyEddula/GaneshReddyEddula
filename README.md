@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 Hi 👋, I'm Ganesh Reddy
 
@@ -6,7 +6,10 @@ Final-year Computer Science Engineering student passionate about software develo
 
 
 🔭 I’m currently working on Mental Health Chatbot Using GenAI and XAI
+
 🌱 I’m currently learning Generative AI,Backend Technologies
+
 💬 Ask me about Machine Learning
+
 Connect with me: www.linkedin.com/in/ganesh-reddy-eddula
 
